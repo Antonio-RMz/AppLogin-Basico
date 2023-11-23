@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "987648083950",
+    "firebase_url": "https://baseturist-default-rtdb.firebaseio.com",
+    "project_id": "baseturist",
+    "storage_bucket": "baseturist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987648083950:android:7dfadb0f6f1718f9bfb0ff",
+        "android_client_info": {
+          "package_name": "com.example.applogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMVj3Ix0SuQWav0onU9CoqVjSu4mnVI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987648083950:android:75be300f490d2ecfbfb0ff",
+        "android_client_info": {
+          "package_name": "com.example.tezturist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMVj3Ix0SuQWav0onU9CoqVjSu4mnVI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
